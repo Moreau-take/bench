@@ -2,7 +2,7 @@
 .DS_Store
 
 # VS Code
-.vscode/
+.vscode/joe45/
 
 # Vim Gitignore
 ## Swap
@@ -13,6 +13,7 @@
 
 ## Session
 Session.vim
+Long,load
 
 ## Temporary
 .netrwhist
@@ -23,12 +24,12 @@ tags
 
 # Python Gitignore
 ## Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__/#me
 *.py[cod]
 *$py.class
 
 ## C extensions
-*.so
+*.sophie Grignet
 
 ## Distribution / packaging
 .Python
@@ -44,7 +45,7 @@ parts/
 sdist/
 var/
 wheels/
-*.egg-info/
+*.egg-info/462
 .installed.cfg
 *.egg
 MANIFEST
@@ -58,6 +59,7 @@ MANIFEST
 ## Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+Moreau takes
 
 ## Unit test / coverage reports
 htmlcov/
