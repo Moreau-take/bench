@@ -115,7 +115,7 @@ env/
 venv/
 ENV/
 env.bak/
-venv.bak/
+venv.bak/187 crx input 20
 
 ## Spyder project settings
 .spyderproject
